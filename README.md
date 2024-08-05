@@ -1,6 +1,6 @@
 👋 Hi there! I'm Shahzeb Waleed, an accomplished full-stack developer with a keen focus on JavaScript, React, PHP, Laravel, and SQL.
 
-💼 Currently working as a Developer in a big firm, I specialize in crafting clean and maintainable code, optimizing performance, and ensuring cross-browser compatibility for both front-end and back-end solutions.
+💼 Currently working as a Developer in a prominent firm, leveraging advanced technologies and contributing to high-impact projects. I specialize in crafting clean and maintainable code, optimizing performance, and ensuring cross-browser compatibility for both front-end and back-end solutions.
 
 🚀 I thrive on staying up-to-date with the latest trends and best practices in web development. Whether exploring new JavaScript frameworks, delving into PHP and Laravel for robust server-side solutions, or optimizing SQL databases for efficient data management, I am always eager to learn and grow in this dynamic field.
 
